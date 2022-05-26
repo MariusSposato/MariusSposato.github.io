@@ -14,4 +14,4 @@ Here is an HTML rendering of a Jupyter Notebook
 
 Here is the link back to the landing page 
 
-- [Landing Page] (https://github.com/MariusSposato/MariusSposato.github.io)
+- [Landing Page] (MariusSposato/MariusSposato.github.io)
