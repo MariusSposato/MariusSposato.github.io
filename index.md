@@ -2,11 +2,11 @@
 title: Module 3 Assignment
 description: Marius Sposato's Github Portfolio
 ---
-This is my image 
+This is my image (Marius Sposato) 
 
 ![My Image](/pics/Github Picture.jpg)
 
 This is the content I've developed for my courses: 
 
-- [Time Series Decomposition](/2022 Work/index.md)
+- [Jupyter Files, HTML Files, and Repository](/2022 Work/index.md)
 
