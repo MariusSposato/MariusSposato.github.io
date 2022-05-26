@@ -1,6 +1,6 @@
 ---
 title: Module 3 Assignment
-description: Github Portfolio
+description: Marius Sposato's Github Portfolio
 ---
 This is my image 
 
