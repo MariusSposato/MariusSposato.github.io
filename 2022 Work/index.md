@@ -19,4 +19,4 @@ This is my sample Repository
 
 Here is the link back to the landing page 
 
-- [Landing Page] (mariussposato.github.io)
+- [Landing Page](Landing Page.html)
